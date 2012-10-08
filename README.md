@@ -1,0 +1,4 @@
+spacekit
+========
+
+Python astrodynamics toolkit
